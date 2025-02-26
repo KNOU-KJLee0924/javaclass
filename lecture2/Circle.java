@@ -1,3 +1,5 @@
+package lecture2;
+
 class Circle implements Shape {
     private double radius;
 

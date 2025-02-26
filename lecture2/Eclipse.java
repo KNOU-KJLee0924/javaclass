@@ -1,3 +1,5 @@
+package lecture2;
+
 final class Eclipse extends Circle {
     private double radius2;
 
