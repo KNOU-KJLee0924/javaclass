@@ -45,10 +45,8 @@ public class Sample2 {
         Eclipse eclipse = new Eclipse(4,5);
         eclipse.setRadius(4);
         System.out.println(eclipse.getArea());
-        Circle circle2 = eclipse;
-        circle2.setRadius(2);
+        Circle circle2 = new Eclipse(4,5);
         System.out.println(circle2.getArea());
-        System.out.println(eclipse.getArea());
 
         Circle circle3 = new Circle();
         System.out.println(circle3.getArea());
