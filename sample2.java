@@ -29,6 +29,7 @@ public class sample2 {
     }
 
     private static void scannerSample(){
+
         Scanner sc = new Scanner(System.in);
         while(sc.hasNext()) {
             System.out.println(sc.next());
