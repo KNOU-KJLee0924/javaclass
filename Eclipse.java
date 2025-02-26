@@ -1,7 +1,9 @@
-final class Eclipse extends Circle{
+final class Eclipse extends Circle {
     private double radius2;
 
-    public Eclipse() {super();}
+    public Eclipse() {
+        super();
+    }
 
     public Eclipse(double radius1, double radius2) {
         super(radius1);
