@@ -2,7 +2,7 @@ package lecture3;
 
 //import lecture2.Circle;
 
-public class main {
+public class Main {
     public static void main(String[] args) {
         // error : call class from external package
         // Circle circle = new Circle(); Circle in lecture2
